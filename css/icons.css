@@ -1,0 +1,25 @@
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 250px;
+    padding-bottom: 50px;
+}
+.navegation{
+    font-weight: 500;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    
+}
+.men{
+    padding: 50px;
+}
+.woman{
+    padding: 50px;
+}
+.kid{
+    padding: 50px;
+}
+.costumize{
+    padding: 50px;
+}

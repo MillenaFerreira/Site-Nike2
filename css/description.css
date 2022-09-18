@@ -1,0 +1,41 @@
+.description{
+    font-family: 'Inter', sans-serif;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.description__title{
+    letter-spacing: 0.34em;
+    font-weight: 400;
+    font-size: 24px;
+    
+}
+.description__subtitle{
+    letter-spacing: 34px;
+    padding-top: 70px;
+    font-weight: 700;
+    font-size: 96px;
+}
+.description__text{
+    font-weight: 400;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 91px;
+}
+
+.button{
+    font-size: 24px;
+    color: white;
+    background-color: black;
+    width: 382px;
+    height: 101px;
+    border-radius: 50px;
+    place-self: center end;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

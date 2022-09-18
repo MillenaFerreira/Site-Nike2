@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: white;
+    display: grid;
+    grid-template-areas: 
+        "header"
+        "main"
+        "footer";
+        grid-template-rows: 
+        159px 
+        1fr 
+        100px;
+        font-family: 'Montserrat', sans-serif;
+}
+header{
+    grid-area: header;
+    display: grid;
+    /* align-items: center; */
+    grid-template-areas: 
+        "logo icons user";
+    grid-template-columns: 159px 1fr 100px;
+    padding-left: 66px ;
+    
+}
+main{
+    grid-area: main;
+    display: grid;
+    grid-template-areas: 
+        "tenis description";
+    grid-template-columns: 1fr 1fr;
+    
+}
+footer{
+    grid-area: footer;
+    display: grid;
+    grid-template-areas: 
+        "social-media nike tresRiscos";
+    grid-template-columns: 300px 1fr 100px;
+}

@@ -1,0 +1,13 @@
+.user{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.img_user{
+    background-color: black;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    border: solid 3px black;
+}

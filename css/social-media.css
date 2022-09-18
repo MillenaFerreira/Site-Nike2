@@ -1,0 +1,22 @@
+.social-media{
+    font-family: 'Gilda Display', serif;
+    display: flex;
+    align-items: center;
+    padding-left: 58px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.facebook{
+    color: white;
+    padding-right: 33px;
+    text-decoration: none;
+}
+.twitter{
+    color: white;
+    padding-right: 33px;
+    text-decoration: none;    
+}
+.instagram{
+    color: white;
+    text-decoration: none;
+}
