@@ -1,8 +1,11 @@
 .nike{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    padding-left: 750px;
+    top: 790px;
     font-weight: 600;
-    font-size: 70px;
-    letter-spacing: 25px;
+    font-size: 280px;
+    letter-spacing: 0.025em;
+    
+    opacity: 7%;
+    
 }

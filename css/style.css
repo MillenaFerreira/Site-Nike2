@@ -36,5 +36,5 @@ footer{
     display: grid;
     grid-template-areas: 
         "social-media nike tresRiscos";
-    grid-template-columns: 300px 1fr 100px;
+    grid-template-columns: 300px 616fr 100px;
 }
