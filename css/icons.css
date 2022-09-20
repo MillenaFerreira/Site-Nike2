@@ -6,20 +6,24 @@
     padding-bottom: 50px;
 }
 .navegation{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
     font-weight: 500;
     font-size: 24px;
     font-family: 'Inter', sans-serif;
-    
+    list-style: none;
+    margin-top: 43px;
 }
-.men{
-    padding: 50px;
+.woman {
+    padding-left: 50px;
 }
-.woman{
-    padding: 50px;
+.kid {
+    padding-left: 50px;
 }
-.kid{
-    padding: 50px;
-}
-.costumize{
-    padding: 50px;
+.costumize {
+    padding-left: 50px;
+    text-decoration: none;
+    color: black;
 }
